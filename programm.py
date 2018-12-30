@@ -31,3 +31,7 @@ while Erg1 != c:
         print("Das Ergebnis ist richtig. Anzahl Versuche: ", Versuch)
     else:
         print("Das Ergebnis war falsch. \n\nNeuer Versuch:")
+
+
+# Hier steht eine Änderung
+
